@@ -1,4 +1,4 @@
-# com.castsoftware.uc.tiles
+# com.castsoftware.uc.apachetiles
 
 # Apache Tiles Analyzer
 
