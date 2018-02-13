@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>com.castsoftware.uc.apachetiles</id>
+    <version>2.0.0</version>
+    <title>Apache Tiles analyzer</title>
+    <authors>User Community</authors>
+    <owners>CAST</owners>
+    <licenseUrl>https://extend.castsoftware.com/V2/Licenses/Cast-Licence-UserCommunity-1.0.html</licenseUrl>    
+    <projectUrl>https://github.com/CAST-Extend/com.castsoftware.uc.apachetiles</projectUrl>
+    <iconUrl>https://tiles.apache.org/images/logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This extension provides an Apache Tiles analyzer. This extension is Function Points calculation oriented, meant to create links between Apache Tiles objects and the rest of the application.</description>
+    <tags>Framework JEE ApacheTiles CSS techno:JEE</tags>    
+    <releaseNotes>TBD</releaseNotes>
+    <dependencies>
+      <dependency id="CAIP" version="8.0.0" />
+    </dependencies>
+  </metadata>
+</package>
